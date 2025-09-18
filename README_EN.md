@@ -90,22 +90,3 @@ Dollar -> Hryvnia : 41.23
 
 - [exchangerate.host](https://exchangerate.host) — source for currency exchange rates
 
----
-
-## ⚠️ Important
-
-- A **valid API key** from [exchangerate.host](https://exchangerate.host) is required for the bot to work.  
-- Do **not** commit your `.env` file with API keys or tokens to a public repository.
-
----
-
-## 🗑️ Author
-
-[Ggyuiiiiiiiijhtcc](https://github.com/Ggyuiiiiiiiijhtcc)
-
----
-
-## 🗒 License
-
-MIT
-
