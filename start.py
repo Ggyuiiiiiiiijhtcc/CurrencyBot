@@ -4,7 +4,7 @@ import os
 
 from aiogram import Bot,Dispatcher
 from dotenv import load_dotenv
-from app.hendlers import router
+from hendlers import router
 
 load_dotenv()
 
@@ -19,4 +19,5 @@ if __name__ == '__main__':
     try:
         asyncio.run(main())
     except KeyboardInterrupt:
+
         print('Выход...........')
